@@ -1,0 +1,54 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+.venv
+
+# Variables de entorno
+.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.logs
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Temporales
+*.tmp
+*.bak
