@@ -157,6 +157,15 @@ El proyecto maneja automáticamente:
 
 Para problemas con la API, consulta: https://www.football-data.org/
 
+## 🧠 Análisis automático
+
+El sistema genera recomendaciones basadas en estadísticas recientes de los equipos:
+
+- Tendencia de goles (Over/Under 2.5)
+- Probabilidad de ambos anotan (BTTS)
+- Comparación de forma entre equipos
+
+Estas recomendaciones se calculan utilizando los últimos 5 partidos de liga de cada equipo y reglas estadísticas simples.
 ## 📄 Licencia
 
 Proyecto educativo para análisis de datos de fútbol.
